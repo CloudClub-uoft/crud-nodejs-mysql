@@ -1,8 +1,11 @@
 # CRUD Nodejs and Mysql
-this is a basic application crud that uses nodejs in the backend, mysql as database.
+This is a basic application CRUD that uses Node.js in the backend, and mysql as a database. Forked from [here](https://github.com/FaztWeb/crud-nodejs-mysql).
 
-# Usefull Commands
+# Getting Started
+Open your terminal and navigate to this folder. Execute `npm run dev`. The webapp is available at `localhost:3000`.
+
+# Useful Commands
 - to init mysql: `mysql -u root -p`
 
-# links
-- [bootstrap 4 theme](https://bootswatch.com/4/lux/bootstrap.min.css)
+# Links
+- [Bootstrap 4 Theme](https://bootswatch.com/4/lux/bootstrap.min.css)
